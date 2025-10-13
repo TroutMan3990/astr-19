@@ -4,6 +4,7 @@
 #In each case, have the program print out the data type of the resulting answer.
 
 #Made by Zane Mitchell
+#Finished on 10/7/25
 
 def FloatingPointMath():
 	#Int Difference
@@ -22,3 +23,4 @@ def main():
 
 if __name__== "__main__":
 	main()
+
