@@ -3,6 +3,7 @@
 #Follow the basic Python program structure, including a main program function.
 
 #Made by Zane M
+#Finished on 10/10/25
 
 #Commonly Used Abr
 import matplotlib.pyplot as plt
@@ -31,4 +32,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
 
