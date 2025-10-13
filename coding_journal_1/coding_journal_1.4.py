@@ -5,6 +5,7 @@
 #Write a member function of the class to print out and describe the data members representing the physical characteristics of the animal.
 
 #Made by Zane M
+#Finished on 10/9/25
 
 def FavoriteAnimal():
 
@@ -31,4 +32,5 @@ def main():
 	FavoriteAnimal()
 
 if __name__ == "__main__":
+
 	main()
