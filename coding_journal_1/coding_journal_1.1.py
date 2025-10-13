@@ -1,5 +1,6 @@
 #Coding Journal 1.1, Print out name, pronouns, favorite movie and food
 #Made by Zane M
+#Finished on 10/6/25
 
 def PrintIcebreaker():
 
@@ -21,4 +22,5 @@ def main():
 
 #When the program runs, this runs first
 if __name__ == "__main__":
+
 	main()
