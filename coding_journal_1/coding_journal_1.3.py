@@ -3,6 +3,7 @@
 #Use an if statement that executes if the result is larger than 27 and prints “YAY!”.
 
 #Written by Zane M
+#Finished by 10/7/25
 
 def FunctionMath():
 	string_input = input('Input X\n')
@@ -17,4 +18,5 @@ def main():
 	FunctionMath()
 
 if __name__ == "__main__":
+
 	main()
