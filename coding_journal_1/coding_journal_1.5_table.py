@@ -2,6 +2,9 @@
 #where x is tabulated between 0 and 2pi with a thousand entries. 
 #Follow the basic Python program structure, including a main program function.
 
+#Made by Zane M
+#Finished by 10/10/25
+
 import numpy as np
 
 def SinTable():
@@ -38,4 +41,5 @@ def main():
 	SinTable()
 
 if __name__ == "__main__":
+
 	main()
